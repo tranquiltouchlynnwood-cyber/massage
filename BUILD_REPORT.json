@@ -1,0 +1,92 @@
+{
+  "flat_root_only": true,
+  "visible_service_image_usage": {
+    "massage-therapy.html": {
+      "massage": 1,
+      "headspa": 0,
+      "facial": 0,
+      "pip": 0,
+      "li": 0
+    },
+    "payment-insurance.html": {
+      "massage": 0,
+      "headspa": 0,
+      "facial": 0,
+      "pip": 1,
+      "li": 0
+    },
+    "services.html": {
+      "massage": 1,
+      "headspa": 1,
+      "facial": 1,
+      "pip": 1,
+      "li": 1
+    },
+    "contact.html": {
+      "massage": 0,
+      "headspa": 0,
+      "facial": 0,
+      "pip": 0,
+      "li": 0
+    },
+    "404.html": {
+      "massage": 0,
+      "headspa": 0,
+      "facial": 0,
+      "pip": 0,
+      "li": 0
+    },
+    "facials.html": {
+      "massage": 0,
+      "headspa": 0,
+      "facial": 1,
+      "pip": 0,
+      "li": 0
+    },
+    "workers-comp-massage.html": {
+      "massage": 0,
+      "headspa": 0,
+      "facial": 0,
+      "pip": 0,
+      "li": 1
+    },
+    "auto-injury-massage.html": {
+      "massage": 0,
+      "headspa": 0,
+      "facial": 0,
+      "pip": 1,
+      "li": 0
+    },
+    "index.html": {
+      "massage": 1,
+      "headspa": 0,
+      "facial": 0,
+      "pip": 0,
+      "li": 0
+    },
+    "head-spa.html": {
+      "massage": 0,
+      "headspa": 1,
+      "facial": 0,
+      "pip": 0,
+      "li": 0
+    },
+    "about.html": {
+      "massage": 1,
+      "headspa": 0,
+      "facial": 0,
+      "pip": 0,
+      "li": 0
+    }
+  },
+  "pages_with_duplicate_visible_service_images": {},
+  "broken_local_links_or_assets": [],
+  "service_images_present": {
+    "massage": true,
+    "headspa": true,
+    "facial": true,
+    "pip": true,
+    "li": true,
+    "logo": true
+  }
+}
